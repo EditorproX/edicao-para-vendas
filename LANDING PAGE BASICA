@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Edição Rápida para Empreendedores</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #111;
+      color: white;
+      padding: 60px 20px;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #00b894;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    footer {
+      background-color: #eee;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Edição Rápida para Empreendedores</h1>
+    <p>Crie vídeos curtos, fáceis e que vendem!</p>
+    <a href="#inscricao" class="cta">Quero aprender agora</a>
+  </header>
+
+  <section>
+    <h2>O que você vai aprender:</h2>
+    <ul>
+      <li>🎬 Técnicas simples de edição no celular</li>
+      <li>⚡ Edição rápida e com impacto</li>
+      <li>📱 Ferramentas que estão em alta no mercado</li>
+      <li>📈 Estratégias pra atrair mais clientes com vídeos</li>
+    </ul>
+  </section>
+
+  <section id="inscricao">
+    <h2>Receba o curso gratuito</h2>
+    <p>Insira seu e-mail para receber acesso:</p>
+    <form>
+      <input type="email" placeholder="Seu melhor e-mail" required />
+      <button type="submit">Quero receber</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 - EditorproX |

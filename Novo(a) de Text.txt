@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edição Rápida para Empreendedores</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Edição Rápida para Empreendedores</h1>
+    <p>Crie vídeos curtos, fáceis e que vendem!</p>
+    <a href="#inscricao" class="cta">Quero aprender agora</a>
+  </header>
+
+  <section>
+    <h2>O que você vai aprender:</h2>
+    <ul>
+      <li>🎬 Técnicas simples de edição no celular</li>
+      <li>⚡ Edição rápida e com impacto</li>
+      <li>📱 Ferramentas que estão em alta no mercado</li>
+      <li>📈 Estratégias pra atrair mais clientes com vídeos</li>
+    </ul>
+  </section>
+
+  <section id="inscricao">
+    <h2>Receba o curso gratuito</h2>
+    <p>Insira seu e-mail para receber acesso:</p>
+    <form>
+      <input type="email" placeholder="Seu melhor e-mail" required />
+      <button type="submit">Quero receber</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 - EditorproX | Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
